@@ -1,0 +1,19 @@
+title: Pixie the Elf writes Perl
+description: >
+  Pixie the Elf is a cheerful Perl hacker at the North Pole. This site
+  collects all of her Perl Advent calendar posts in one place.
+lang: en-GB
+
+theme: jekyll-theme-primer
+
+url: "https://pixie.perlhacks.com"
+
+author:
+  name: Dave Cross
+
+# GA4 measurement ID, e.g. G-XXXXXXX
+google_analytics: G-MSYT63QGK5
+
+plugins:
+  - jekyll-seo-tag
+
