@@ -1,5 +1,7 @@
 # Pixie the Elf writes Perl
 
+![Pixie the Elf](pixie-the-elf.png "Pixie the Elf")
+
 Over the last few years I've written a few blog posts for Perl-related
 Advent calendars. Recently, they have been about Pixie the Elf (whose
 parents had strange ideas about names).
