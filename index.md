@@ -26,7 +26,7 @@ posts, so I can remember where and when they were posted.
 |------| ---- | ---- | ----- | ------- |
 {% for post in posts -%}
 | {{ post.date | date: "%Y" }} | {{ post.date | date: "%-d %b" }} | {{ post.site }} | [{{ post.title }}]({{ post.url }}) | [{{ post.subject.name }}]({{ post.subject.url }}) |
-{%- endfor %}
+{% endfor %}
 
 
 <script type="application/ld+json">
