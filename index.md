@@ -21,12 +21,12 @@ parents had strange ideas about names).
 I thought it would be a good idea to start to collect a list of these
 posts, so I can remember where and when they were posted.
 
+{% assign posts = site.data.posts | sort: 'date' %}
 | Year | Date | Site | Title | Subject |
 |------| ---- | ---- | ----- | ------- |
-{% assign posts = site.data.posts | sort: 'date' %}
-{% for post in posts %}
+{% for post in posts -%}
 | {{ post.date | date: "%Y" }} | {{ post.date | date: "%-d %b" }} | {{ post.site }} | [{{ post.title }}]({{ post.url }}) | [{{ post.subject.name }}]({{ post.subject.url }}) |
-{% endfor %}
+{%- endfor %}
 
 
 <script type="application/ld+json">
