@@ -6,8 +6,12 @@ description: >
 image: /pixie-the-elf.png
 
 ---
-# Pixie the Elf writes Perl
 
+<p class="pixie-home-link">
+  <a href="https://perlhacks.com/">Home</a>
+</p>
+
+# Pixie the Elf writes Perl
 
 <img
   src="{{ '/pixie-the-elf.png' | relative_url }}"
