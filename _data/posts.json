@@ -1,0 +1,43 @@
+[
+  {
+    "date": "2023-12-20",
+    "site": "Dancer Advent Calendar",
+    "title": "Dancing with HTMX",
+    "url": "https://advent.perldancer.org/2023/20",
+    "subject": {
+      "name": "HTMX",
+      "url": "https://htmx.org/"
+    }
+  },
+  {
+    "date": "2024-12-04",
+    "site": "Perl Advent Calendar",
+    "title": "GitHub Actions: A Festive Tale of DevOps Magic",
+    "url": "https://perladvent.org/2024/2024-12-04.html",
+    "subject": {
+      "name": "GitHub Actions",
+      "url": "https://github.com/features/actions"
+    }
+  },
+  {
+    "date": "2024-12-08",
+    "site": "Perl Advent Calendar",
+    "title": "Pixie the Elf Picks an Artist: Exploring Perl's new class syntax",
+    "url": "https://perladvent.org/2024/2024-12-08.html",
+    "subject": {
+      "name": "perlclass",
+      "url": "https://perldoc.perl.org/perlclass"
+    }
+  },
+  {
+    "date": "2025-12-02",
+    "site": "Perl Advent Calendar",
+    "title": "All I Want for Christmas Is the Right Aspect Ratio",
+    "url": "https://perladvent.org/2025/2025-12-02.html",
+    "subject": {
+      "name": "App::BlurFill",
+      "url": "https://metacpan.org/dist/App-BlurFill"
+    }
+  }
+]
+
