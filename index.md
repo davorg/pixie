@@ -32,18 +32,9 @@ posts, so I can remember where and when they were posted.
 | {{ post.date | date: "%Y" }} | {{ post.date | date: "%-d %b" }} | {{ post.site }} | [{{ post.title }}]({{ post.url }}) | [{{ post.subject.name }}]({{ post.subject.url }}) |
 {% endfor %}
 
+---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Pixie the Elf writes Perl",
-  "description": "A collection of Pixie the Elf's Perl Advent calendar stories.",
-  "url": "https://davorg.dev/pixie/",
-  "author": {
-    "@type": "Person",
-    "name": "Dave Cross"
-  }
-}
-</script>
-
+Hi, I'm Dave and I wrote the blog posts about Pixie the Elf. I've been working
+in Perl and various web technologies for approaching forty years. If you think
+that [any of my skills](https://davecross.co.uk/services/) could be of interest
+to you, then why not [get in touch](https://davecross.co.uk/contact/)?
