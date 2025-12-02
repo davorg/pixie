@@ -12,8 +12,7 @@ image: /pixie-the-elf.png
 <img
   src="{{ '/pixie-the-elf.png' | relative_url }}"
   alt="Pixie the Elf, a young red-haired elf working on a laptop in Santa's office at the North Pole"
-  class="pixie-hero"
->
+  class="pixie-hero">
 
 Over the last few years I've written a few blog posts for Perl-related
 Advent calendars. Recently, they have been about Pixie the Elf (whose
